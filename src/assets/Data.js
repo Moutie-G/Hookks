@@ -6,7 +6,8 @@ export const movies = [
              dynasty transfers control of his clandestine 
              empire to his reluctant son.`,
       rate: 5,
-      src:"https://www.youtube.com/embed/kTlhEX0kmL8"
+      src:"https://www.youtube.com/embed/kTlhEX0kmL8",
+      trailer:"https://youtu.be/sY1S34973zA"
     },
     {
       title: `Fight club`,
@@ -16,7 +17,8 @@ export const movies = [
               fight club that evolves into something much, 
               much more.`,
       rate: 4,
-      src:"https://www.youtube.com/embed/_XgQA9Ab0Gw"
+      src:"https://www.youtube.com/embed/_XgQA9Ab0Gw",
+      trailer:"https://youtu.be/qtRKdVHc-cE"
     },
     {
       title: `The illusionist`,
@@ -25,7 +27,8 @@ export const movies = [
              a magician uses his abilities to secure the 
              love of a woman far above his social standing.`,
       rate: 3,
-      src:"https://www.youtube.com/embed/vUo7fqHOIOw"
+      src:"https://www.youtube.com/embed/vUo7fqHOIOw",
+      trailer:"https://youtu.be/i0xO64icGSY"
     },
     {
       title: `American History X`,
@@ -34,7 +37,8 @@ export const movies = [
               tries to prevent his younger brother 
               from going down the same wrong path that he did.`,
       rate: 2,
-      src:"https://www.youtube.com/embed/XfQYHqsiN5g"
+      src:"https://www.youtube.com/embed/XfQYHqsiN5g",
+      trailer:"https://youtu.be/XfQYHqsiN5g"
     },
   ];
 
